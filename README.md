@@ -10,7 +10,7 @@ Assumptions made:
 •	There are no transmission/conversion losses. 
 •	Temperatures within storage tank are neglected.
 
- <img src= "">
+ <img src= "https://github.com/Veetan3/PV-and-Heat-storage/blob/master/Energy%20System.PNG">
 
 1.	I use input data from files “demand_elec_households”, “demand_hotwater_households” and “pv_capacity_factor”. 
 2.	A file called “Output” is generated which consists of generation timeseries of the gas turbine, the photovoltaic panels and the level of the storage. 
